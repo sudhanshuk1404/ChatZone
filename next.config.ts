@@ -6,4 +6,7 @@ const nextConfig = {
 };
 
 module.exports = nextConfig;
+<<<<<<< HEAD
 
+=======
+>>>>>>> 5aea14f (disable eslint errors in prod)
