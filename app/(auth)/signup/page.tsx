@@ -43,6 +43,7 @@ export default function SignupPage() {
           data: {
             name,
           },
+          emailRedirectTo: "https://chat-zone-kappa.vercel.app/login",
         },
       });
 
