@@ -2,7 +2,7 @@
 
 A real-time chat application built using **Next.js**, **Supabase**, and **Tailwind CSS**, designed with a sleek WhatsApp-style UI and smooth user experience.
 
-![ChatZone Preview](public/preview.png)
+Live site 👉 [https://chatzone.vercel.app](https://chat-zone-kappa.vercel.app/)
 
 ---
 
